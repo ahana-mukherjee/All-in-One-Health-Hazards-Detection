@@ -1,1 +1,1 @@
-# All-in-One-Health-Hazards-Detection
+# Prognosis AI
